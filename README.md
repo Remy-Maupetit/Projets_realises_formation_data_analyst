@@ -1,4 +1,4 @@
-                                                   Bienvenue
+                                                Bienvenue
 
 Cet espace est consacré à ma formation de data analyst.
 
