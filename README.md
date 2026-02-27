@@ -10,4 +10,4 @@ J’ai suivi ce cursus entre mars 2025 et avril 2026 sur la plateforme de format
 
 Lors de ce cursus j'ai bénéficié de l'appui d'un mentor professionnel de l'analyse de donnée qui m'a guidé dans l'exécution de l'ensemble de ces projets.
 
-Dans les différents répertoires vous  trouverez classés les livrables réalisés pour la validation de chaque projet.
+Dans les différents répertoires, vous trouverez les livrables réalisés pour la validation de chaque projet.
